@@ -6,4 +6,4 @@ Demo Project in GIT
 
 more changes ewqeqweq  
 anoither chagfe 
-changes in test branch ... ok --- from master
+changes in test branch ... ok --- from master second version
